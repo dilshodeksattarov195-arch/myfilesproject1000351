@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdave",
+        "uuid": 1166724,
+        "checksum": "vulgs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
